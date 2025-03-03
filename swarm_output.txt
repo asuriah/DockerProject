@@ -1,0 +1,3 @@
+ID             NAME                       IMAGE                   NODE             DESIRED STATE   CURRENT STATE                ERROR     PORTS
+qz98m8wj0k5v   text-processor-service.1   text-processor:latest   docker-desktop   Running         Running about a minute ago             
+i6qvciuokouo   text-processor-service.2   text-processor:latest   docker-desktop   Running         Running about a minute ago             
